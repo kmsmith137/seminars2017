@@ -2,7 +2,7 @@
 
 ## Fall 2017
 
- - Sept 5:
+ - Sept 5: Azadeh Maleknejad
  - Sept 12:
  - Sept 19:
  - Sept 26:
