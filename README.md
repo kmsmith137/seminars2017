@@ -3,9 +3,9 @@
 ## Fall 2017
 
  - Sept 5: Azadeh Maleknejad
- - Sept 12:
+ - Sept 12: Shane Davis
  - Sept 19:
- - Sept 26:
+ - Sept 26: Dejan Stojkovic
  - Oct 3:
  - Oct 10:
  - Oct 17:
