@@ -4,10 +4,10 @@
 
  - Sept 5: Azadeh Maleknejad
  - Sept 12: Shane Davis
- - Sept 19:
+ - Sept 19: Dan Tamayo
  - Sept 26: Dejan Stojkovic
  - Oct 3:
- - Oct 10:
+ - Oct 10: Chandrima Ganguly
  - Oct 17:
  - Oct 24:
  - Oct 31:
