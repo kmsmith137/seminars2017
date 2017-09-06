@@ -3,12 +3,12 @@
 ## Fall 2017
 
  - Sept 5: Azadeh Maleknejad
- - Sept 12: Shane Davis
+ - Sept 12: Shane Davis  (+ extra Jon Sievers seminar on Mon Sept 11)
  - Sept 19: Dan Tamayo
  - Sept 26: Dejan Stojkovic
- - Oct 3:
+ - Oct 3: Jo Bovy
  - Oct 10: Chandrima Ganguly
- - Oct 17:
+ - Oct 17: 
  - Oct 24:
  - Oct 31:
  - Nov 7: Sherry Suyu
