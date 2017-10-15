@@ -8,12 +8,12 @@
  - Sept 26: Dejan Stojkovic
  - Oct 3: Jo Bovy
  - Oct 10: Chandrima Ganguly
- - Oct 17: 
- - Oct 24:
- - Oct 31:
+ - Oct 17: Kiyo Masui
+ - Oct 24: Adam Solomon
+ - Oct 31: Elliot Nelson
  - Nov 7: Sherry Suyu
- - Nov 14:
- - Nov 21:
+ - Nov 14: 
+ - Nov 21: Michael Troxel
  - Nov 28:
  - Dec 5:
  - Dec 12:
