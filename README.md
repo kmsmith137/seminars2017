@@ -3,7 +3,7 @@
 ## Fall 2017
 
  - Sept 5: Azadeh Maleknejad
- - Sept 12: Shane Davis  (+ extra Jon Sievers seminar on Mon Sept 11)
+ - Sept 12: Shane Davis (+ extra Jon Sievers seminar on Mon Sept 11)
  - Sept 19: Dan Tamayo
  - Sept 26: Dejan Stojkovic
  - Oct 3: Jo Bovy
@@ -11,12 +11,14 @@
  - Oct 17: Kiyo Masui
  - Oct 24: Adam Solomon
  - Oct 31: Elliot Nelson
- - Nov 7: Sherry Suyu
- - Nov 14: 
+ - Nov 6: Sherry Suyu (note Monday instead of Tuesday)
+ - Nov 14: Sabine Hossenfelder
  - Nov 21: Michael Troxel
- - Nov 28:
+ - Nov 28: Edivaldo Moura Santos
  - Dec 5:
  - Dec 12:
  - Dec 19:
 
 ## Spring 2018
+
+- Jan 16: Jesus Zavala
