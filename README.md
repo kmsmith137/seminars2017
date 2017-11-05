@@ -14,11 +14,18 @@
  - Nov 6: Sherry Suyu (note Monday instead of Tuesday)
  - Nov 14: Sabine Hossenfelder
  - Nov 21: Michael Troxel
- - Nov 28: Edivaldo Moura Santos
+ - Nov 28: Amjad Ashoorioon
  - Dec 5:
- - Dec 12:
+ - Dec 12: Edivaldo Moura Santos
  - Dec 19:
 
 ## Spring 2018
 
-- Jan 16: Jesus Zavala
+ - Jan 9:
+ - Jan 16: Jesus Zavala
+ - Jan 23:
+ - Jan 30:
+ - Feb 6:
+ - Feb 13:
+ - Feb 20:
+ - Feb 27:
