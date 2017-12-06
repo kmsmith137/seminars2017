@@ -24,10 +24,12 @@
  - Jan 9:
  - Jan 16: Jesus Zavala
  - Jan 23:
- - Jan 30:
+ - Jan 30: Pavel Motloch
  - Feb 6:
  - Feb 13:
  - Feb 20:
  - Feb 27:
  - Mar 6: Marina Cortes
  - Mar 13: Andrew Liddle
+ - Mar 20:
+ - Mar 27: (in Bob Room this week)
