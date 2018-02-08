@@ -33,4 +33,12 @@
  - Mar 13:
  - Mar 20:
  - Mar 27: Will Percival (in Bob Room this week)
+ - Apr 3:
+ - Apr 10:
+ - Apr 17:
+ - Apr 24:
  - May 1: Simon Foreman
+ - May 8:
+ - May 15:
+ - May 22:
+ - May 29:
