@@ -17,19 +17,20 @@
  - Nov 28: Amjad Ashoorioon
  - Dec 5:
  - Dec 12: Edivaldo Moura Santos
- - Dec 19:
+ - Dec 19: Lena Funcke
 
 ## Spring 2018
 
- - Jan 9:
+ - Jan 9: Manus Visser
  - Jan 16: Jesus Zavala
- - Jan 23:
+ - Jan 23: Chi-Ting Chiang
  - Jan 30: Pavel Motloch
- - Feb 6:
- - Feb 13:
+ - Feb 6: Naritaka Oshita
+ - Feb 13: Jessica Muir
  - Feb 20:
  - Feb 27:
- - Mar 6: Marina Cortes
- - Mar 13: Andrew Liddle
+ - Mar 6:
+ - Mar 13:
  - Mar 20:
- - Mar 27: (in Bob Room this week)
+ - Mar 27: Will Percival (in Bob Room this week)
+ - May 1: Simon Foreman
