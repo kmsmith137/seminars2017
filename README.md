@@ -34,7 +34,7 @@
  - Mar 20: Phil Bull
  - Mar 27: Will Percival (in Bob Room this week)
  - Apr 3:
- - Apr 10:
+ - Apr 10: Kurt Hinterbichler
  - Apr 17:
  - Apr 24: Marcel Schmittful
  - May 1: Simon Foreman
