@@ -29,8 +29,8 @@
  - Feb 13: Jessica Muir
  - Feb 20:
  - Feb 27: Niayesh Afshordi
- - Mar 6:
- - Mar 13:
+ - Mar 6: 
+ - Mar 13: 
  - Mar 20: Phil Bull
  - Mar 27: Will Percival (in Bob Room this week)
  - Apr 3:
@@ -39,6 +39,6 @@
  - Apr 24: Marcel Schmittful
  - May 1: Simon Foreman
  - May 8:
- - May 15:
+ - May 15:  (offered to Colin Hill)
  - May 22:
  - May 29:
