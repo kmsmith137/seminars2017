@@ -44,5 +44,5 @@
  - May 29:
  - June 5:
  - June 12: Roland de Putter
- - June 19:
+ - June 19: Francisco Villaescusa-Navarro
  - June 26:
