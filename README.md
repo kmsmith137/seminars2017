@@ -32,13 +32,16 @@
  - Mar 6: Will Percival
  - Mar 13: 
  - Mar 20: Phil Bull
- - Mar 27: Latham Boyle (in Bob Room this week)
- - Apr 3: Hanno Rein
+ - Mar 27: 
+ - Apr 3: Latham Boyle (at 4pm in Time Room)
  - Apr 10: Kurt Hinterbichler
- - Apr 17:
- - Apr 24: Marcel Schmittful
+ - Apr 17: Hanno Rein
+ - Apr 24: Marcel Schmittfull
  - May 1: Simon Foreman
  - May 8:
- - May 15: Colin Hill
- - May 22:
+ - May 15:
+ - May 22: Colin Hill
  - May 29:
+ - June 5:
+ - June 12: Roland de Putter
+
