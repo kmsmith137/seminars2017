@@ -38,11 +38,11 @@
  - Apr 17: Hanno Rein
  - Apr 24: Marcel Schmittfull
  - May 1: Simon Foreman
- - May 8:
+ - May 8: Alejandro Perez
  - May 15:
  - May 22: Colin Hill
  - May 29:
  - June 5:
- - June 12: Roland de Putter
+ - June 12: 
  - June 19: Francisco Villaescusa-Navarro
  - June 26:
