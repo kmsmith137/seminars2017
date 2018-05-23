@@ -43,6 +43,7 @@
  - May 22: Colin Hill
  - May 29:
  - June 5:
- - June 12: 
- - June 19: Francisco Villaescusa-Navarro
- - June 26:
+ - June 12: Evangelos Sfakianakis
+ - June 19:
+ - June 26: Fereshteh Rajabi 
+
